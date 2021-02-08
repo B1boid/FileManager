@@ -1,6 +1,6 @@
 # File Manager
 
-<img src="screen1" width="500" height="500" />
+<img src="screen1.png" width="500" height="500" />
 
 File manager that allows to work with the file system in its pure form.
 
